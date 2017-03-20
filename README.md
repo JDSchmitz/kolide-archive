@@ -1,14 +1,13 @@
-<img style="float:left;" height="244px" src="https://github.com/kolide/kolide/blob/master/kolide-banner.png?raw=true">
+<img style="float:left;" height="244px" src="https://github.com/kolide/kolide-archive/blob/master/kolide-banner.png?raw=true">
 
 # Kolide
 
-[![Build Status](http://komanda.io:8080/api/badges/mephux/kolide/status.svg)](http://komanda.io:8080/mephux/kolide)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mephux/kolide)](https://goreportcard.com/report/github.com/mephux/kolide)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kolide/kolide-archive)](https://goreportcard.com/report/github.com/kolide/kolide-archive)
 
   Kolide is an agentless osquery (https://osquery.io/) web interface and remote api server. Kolide uses the osquery
   remote apis to do ad-hoc distributed queries, osqueryd configurations and the collection and processing of scheduled queries (packs). Kolide was designed to be extremely portable (a single binary) and performant while keeping the codebase simple.
 
-<img src="https://github.com/kolide/kolide/blob/master/kolide.gif?raw=true">
+<img src="https://github.com/kolide/kolide-archive/blob/master/kolide.gif?raw=true">
 
 # What is osquery?
 
