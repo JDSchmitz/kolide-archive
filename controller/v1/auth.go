@@ -6,9 +6,9 @@ import (
 	log "github.com/Sirupsen/logrus"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/model"
-	"github.com/kolide/kolide/shared/httputil"
-	"github.com/kolide/kolide/shared/token"
+	"github.com/JDSchmitz/kolide-archive/model"
+	"github.com/JDSchmitz/kolide-archive/shared/httputil"
+	"github.com/JDSchmitz/kolide-archive/shared/token"
 )
 
 type tokenPayload struct {
