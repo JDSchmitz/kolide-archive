@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/mephux/common/uuid"
-	"github.com/kolide/kolide/model"
+	"github.com/JDSchmitz/kolide-archive/model"
 )
 
 // QueryResult return structure
