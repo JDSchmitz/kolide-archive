@@ -9,7 +9,7 @@ import (
 	"github.com/go-xorm/core"
 	"github.com/go-xorm/xorm"
 
-	"github.com/kolide/kolide/config"
+	"github.com/JDSchmitz/kolide-archive/config"
 
 	// Loaded to cover deps for xorm postgres support
 	_ "github.com/lib/pq"
