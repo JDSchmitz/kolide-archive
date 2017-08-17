@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/kolide/kolide/config"
-	"github.com/kolide/kolide/controller/v1"
+	"github.com/JDSchmitz/kolide-archive/config"
+	"github.com/JDSchmitz/kolide-archive/controller/v1"
 )
 
 // Load templates
