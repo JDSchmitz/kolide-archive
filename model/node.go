@@ -8,8 +8,8 @@ import (
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/shared/hub"
-	"github.com/kolide/kolide/shared/osquery"
+	"github.com/JDSchmitz/kolide-archive/shared/hub"
+	"github.com/JDSchmitz/kolide-archive/shared/osquery"
 )
 
 // nodeUpdateStatus loop to keep node information current
