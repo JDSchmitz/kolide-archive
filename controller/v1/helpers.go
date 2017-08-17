@@ -3,8 +3,8 @@ package v1
 import (
 	"html/template"
 
-	"github.com/kolide/kolide/controller/helpers"
-	"github.com/kolide/kolide/version"
+	"github.com/JDSchmitz/kolide-archive/controller/helpers"
+	"github.com/JDSchmitz/kolide-archive/version"
 )
 
 // HelperFunctions to use while rendering content
