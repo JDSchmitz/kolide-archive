@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kolide/kolide/shared/base"
+	"github.com/JDSchmitz/kolide-archive/shared/base"
 )
 
 // User database table schema
