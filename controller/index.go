@@ -6,10 +6,10 @@ import (
 	log "github.com/Sirupsen/logrus"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/model"
-	"github.com/kolide/kolide/router/middleware/session"
-	"github.com/kolide/kolide/shared/osquery"
-	"github.com/kolide/kolide/shared/token"
+	"github.com/JDSchmitz/kolide-archive/model"
+	"github.com/JDSchmitz/kolide-archive/router/middleware/session"
+	"github.com/JDSchmitz/kolide-archive/shared/osquery"
+	"github.com/JDSchmitz/kolide-archive/shared/token"
 )
 
 // Index route
