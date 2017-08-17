@@ -8,7 +8,7 @@ import (
 	logger "log"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/kolide/kolide/config"
+	"github.com/JDSchmitz/kolide-archive/config"
 )
 
 // Server configurations
