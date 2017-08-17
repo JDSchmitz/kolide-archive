@@ -2,9 +2,9 @@ package v1
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/config"
-	"github.com/kolide/kolide/controller/v1"
-	"github.com/kolide/kolide/router/middleware/session"
+	"github.com/JDSchmitz/kolide-archive/config"
+	"github.com/JDSchmitz/kolide-archive/controller/v1"
+	"github.com/JDSchmitz/kolide-archive/router/middleware/session"
 )
 
 // Register v1 route handlers
