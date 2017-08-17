@@ -2,7 +2,7 @@ package helpers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/version"
+	"github.com/JDSchmitz/kolide-archive/version"
 
 	log "github.com/Sirupsen/logrus"
 )
