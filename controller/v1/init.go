@@ -1,6 +1,6 @@
 package v1
 
-import "github.com/kolide/kolide/config"
+import "github.com/JDSchmitz/kolide-archive/config"
 
 var (
 	configuration *config.Config
