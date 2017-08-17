@@ -2,8 +2,8 @@ package v1
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kolide/kolide/controller/helpers"
-	"github.com/kolide/kolide/model"
+	"github.com/JDSchmitz/kolide-archive/controller/helpers"
+	"github.com/JDSchmitz/kolide-archive/model"
 )
 
 // Node route
